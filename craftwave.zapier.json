@@ -1,0 +1,10 @@
+{
+  "title": "Themed Cruise Packages",
+  "description": "Discover themed cruise packages that cater to specific interests such as culinary adventures or wellness retreats. Perfect for niche travelers.",
+  "version": "1.0.0",
+  "platformVersion": "15.0.0",
+  "published_with": "craftwave",
+  "authentication": {
+    "type": "oauth2"
+  }
+}
