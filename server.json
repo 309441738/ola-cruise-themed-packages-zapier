@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.309441738/ola-cruise-themed-packages",
+  "description": "Discover themed cruise packages that cater to specific interests such as culinary adventures or wellness retreats. Perfect for niche travelers.",
+  "version": "0.1.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://cruise-mcp.olavacations.com/api/gw/mcp/3a38cfc9-13c8-4f11-9b8f-fa1f36817c25"
+    }
+  ]
+}
